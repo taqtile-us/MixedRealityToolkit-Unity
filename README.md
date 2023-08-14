@@ -1,3 +1,17 @@
+## MRTKDevTemplate project port to Magic Leap 2
+
+This repo is provided as a demonstration of getting an MRTK3 project running on the Magic Leap 2 platform, specifically the **MRTKDevTemplate** project, located at `UnityProjects/MRTKDevTemplate`, that is used in development of MRTK3.  For steps involved in preparing an MRTK3 project for Magic Leap 2, please see the README documentation that accompanies Magic Leap's `com.magicleap.mrtk3` package, located at `UnityPackages/MagicLeapMRTK3/README.md`.
+
+**Compatibility**
+
+As MRTK3 has been under development prior to General Availability, any time there has been an API change it will be addressed in the next `com.magicleap.mrtk3` release.  The following is a compatibility table between the `com.magicleap.mrtk3` package version and the latest MRTK3 repo commit it is compatible with.  
+
+| com.magicleap.mrtk3 Version | MRTK3 Commit | Commit Date |
+|--|--|--|
+| 1.0.0-pre.3 | e80773345a750f8ecf7a69b9e634f5942703f413 | July 14, 2023 |
+| 1.0.0-pre.2 | 14ba6259c967226d76c3ee6886baea547bbbb617 | June 20, 2023 |
+| 1.0.0-pre.1 | 14ba6259c967226d76c3ee6886baea547bbbb617 | June 20, 2023 |
+
 ![Mixed Reality Toolkit](https://user-images.githubusercontent.com/13754172/122838732-89ea3400-d2ab-11eb-8c79-32dd84944989.png)
 
 
